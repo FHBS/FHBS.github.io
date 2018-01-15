@@ -1,3 +1,9 @@
-theme: jekyll-theme-dinky
+title: FHBig
+description: FredHutch Bioinformatics Interest Group
+
+port: 4444
+
+ 
+theme: jekyll-theme-cayman
 
 exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
